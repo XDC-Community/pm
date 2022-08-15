@@ -1,4 +1,4 @@
-# Ethereum Project Management Repository
+# XDC Network Project Management Repository
 
 This repository is used for project management for various initiatives affecting the XDC Network. The main use of this repository is for the All Core Devs meeting.
 
